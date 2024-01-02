@@ -1,0 +1,69 @@
+body{
+    height: 100vh;
+    background-image: url(Images/pexels-szabolcs-toth-3255349.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.subway{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;;
+    color:white;
+   
+    font-size:xx-large;
+    justify-content: center;
+    align-items:center;
+    margin-top: 10%;
+     text-shadow: 2px 2px #000000;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color:white;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color:white;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+margin-left: 43%;
+  
+}
+
+#increment-btn {
+    background: #f95959;
+}
+
+#save-btn {
+    background: #9fd3c7;
+}
+
+#decrement-btn{
+    background: #005792;
+}
+
+#save-el{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
